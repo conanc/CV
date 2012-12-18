@@ -1,6 +1,6 @@
 Conan Cook
 ==========
-I consider myself a passionate developer, with a keen eye for best practice and pragmatic architecture.  I keep a positive attitude and a good approach, and value these things in my team.
+I consider myself a passionate developer, with a keen eye for best practice and pragmatic architecture.  I keep a positive attitude and a good approach, and value these things in my team. I also stole this idea from [Sam Pikesley](https://github.com/pikesley).
  
 Skills
 ======

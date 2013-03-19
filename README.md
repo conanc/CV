@@ -8,15 +8,10 @@ Skills
 Development
 -----------
 + Java / J2EE
++ Groovy
 + Spring framework
 + Test-Driven Development
 + JPA (Eclipselink, Toplink, Hibernate)
-
-Presentation
-------------
-+ JSP
-+ XSLT
-+ GWT
 
 Database
 --------

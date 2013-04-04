@@ -78,7 +78,7 @@ Senior Applications Developer (Portal), [University of the West of England](http
 
 Working in the Academic Technologies Group (ATG) within IT Services, my immediate team of 7 was responsible for delivery of a student web portal [myUWE](http://my.uwe.ac.uk), providing a full online environment for student activities, from initial registration and payment of fees (>£2m in 2010), through accessing the virtual learning environment, submitting coursework, receiving results and supporting functionality such as email and faculty announcements as well as teaching and exam timetables.  The portal was (and still is) the primary means of accessing these services, making it a critical part of the student experience at UWE.  The university has around 28,000 student and 3000 staff users, with around 8000 distinct logins per day; data protection therefore numbers among my responsibilities.  The role requires that I am an expert in the platform we use – Jasig’s uPortal - and its optimisation and maintenance.  During my time at UWE I was promoted to Senior Developer, gaining responsibility for security, performance, development processes, technical documentation and also leading system maintenance.  I enjoyed advising on technology and liasing with all levels of stakeholder, from students to senior management.  Whilst in this post I actively engaged in the open source community, exchanging technology and sharing knowledge with my contemporaries at other universities around the world.
 
-Tech stack: Java / Tomcat / Spring / Portlet / TopLink / SQL Server / XSLT
+Tech stack: Java / Tomcat / Spring / Portlet / TopLink / SQL Server / XSLT / Maven
  
 
 Applications Developer (Java), [University of the West of England](http://www.uwe.ac.uk), Bristol, 08/2006 – 01/2009

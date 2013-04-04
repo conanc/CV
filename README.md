@@ -56,10 +56,10 @@ Infrastructure
 Experience
 ==========
 
-Platform Developer (Java), [AMEE](http://www.amee.com), London 01/2012 - Today
+Senior Platform Developer (Java), [AMEE](http://www.amee.com), London 01/2012 - Today
 ------------------------------------------------------------------------------
 
-My role includes both software development and systems architecture.  I am responsible for implementation of the back-end, but design the architecture for the entire system, including infrastructure, persistence, application architecture and messaging, and the accompanying systems and processes - TDD, continuous integration, deployment strategies, scalability and resilience, and security.  This includes specifications for external vendors, and integration with their systems.  My 2-person development team builds the core business platform supporting data access, providing RESTful APIs, batch database extracts and data analysis tooling.  It is both a rewarding and demanding position; I am consulted as the domain expert on application architecture and development practices.
+My role includes both software development and systems architecture.  I am responsible for implementation of the back-end, but design the architecture for the entire system, including infrastructure, persistence, application architecture and messaging, and the accompanying systems and processes - TDD, continuous integration, deployment strategies, scalability and resilience, and security.  This includes specifications for external vendors, and integration with their systems.  My development team builds the core business platform supporting data access, providing RESTful APIs, batch database extracts and data analysis tooling.  It is both a rewarding and demanding position; I am consulted as the domain expert on application architecture and development practices.
 
 In this role I’ve worked on an existing emissions calculation platform and delivered a highly scalable data collection system.  I am currently working on a business supply-chain risk analysis platform; having recently completed architectural plans for the initial phases of delivery, I am now implementing the back-end components.
 

@@ -10,7 +10,7 @@ Development
 + Java / J2EE
 + Groovy
 + Spring framework
-+ Test-Driven Development
++ TDD / BDD
 + JPA (Eclipselink, Toplink, Hibernate)
 
 Database
@@ -30,21 +30,22 @@ Messaging
 Containers
 ----------
 + Tomcat
++ Jetty
 + Restlet
 + Apache
 + Nginx
++ Spring
++ DropWizard
 
 Collaboration
 -------------
 + Git
 + Subversion
-+ Jira
-+ Confluence
++ Atlassian Jira, Confluence, Bamboo, Crucible/Fisheye
++ Hudson/Jenkins
 + Mingle
 + Trello
 + Bugzilla
-+ Hudson/Jenkins
-+ Bamboo
 
 Infrastructure
 --------------
@@ -52,6 +53,8 @@ Infrastructure
 + UNIX (Solaris)
 + Linux (RedHat/Ubuntu)
 + AWS
++ Vagrant (with VirtualBox)
++ VSphere
 
 Experience
 ==========
@@ -59,7 +62,7 @@ Experience
 Software Engineer, [Softwire](http://www.softwire.com), London, 06/2013 - Today
 -------------------------------------------------------------------------------
 
-In my current role I'm working on a new project for the company's largest client, [Metaswitch](http://www.metaswitch.com/).  The project's aim is to build a number of significant extensions to Metaswitch's existing global telecommunications platform, and so the work involves getting stuck into a major body of 3rd-party code.  As well as providing experienced development resource to the project, I'm working hard on establishing effective processes to bridge the culture gap between the two companies; this ranges from setting up git-svn, to identifying optimisations in the test infrastructure that allow the incorporation of modern TDD and BDD approaches.  In addition, I'm expected to mentor less experienced developers, providing guidance in good coding practice in general as well as sharing expertise on the application specifics.  The development side has strong focuses on performance and security, as each installation of the system handles several million subscribers, many of whom are concurrently using their mobile phones and other devices.
+In my current role I'm working on a new project for the company's largest client, [Metaswitch](http://www.metaswitch.com/).  My team is currently around 8 people (5 devs), but is expected to grow to around 16 in the next 6 months. The project's aim is to build a number of significant extensions to Metaswitch's existing global telecommunications platform, and so the work involves getting stuck into a major body of 3rd-party code.  As well as providing experienced development resource to the project, I'm working hard on establishing effective processes to bridge the culture gap between the two companies; this ranges from setting up git-svn, to identifying optimisations in the test infrastructure that allow the incorporation of modern TDD and BDD approaches.  In addition, I'm expected to mentor less experienced developers, providing guidance in good coding practice in general as well as sharing expertise on the application specifics.  The development side has strong focuses on performance and security, as each installation of the system handles several million subscribers, many of whom are concurrently using their mobile phones and other devices.
 
 Tech stack: Java / Perl / MySQL / SQL Server  
 

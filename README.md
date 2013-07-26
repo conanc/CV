@@ -106,12 +106,12 @@ Interests / Hobbies
 + I participate in a number of open-source and technology communities, including [Cassandra London](http://www.meetup.com/Cassandra-London/), the [London Java Community](http://www.meetup.com/Londonjavacommunity/), and [Cleanweb](http://www.cleanweb.org.uk/).
 + I swim and run regularly, and play squash and football.
 + I'm interested in music technology, and play the drums.
-+ I like to read novels.
++ I like to read novels and play strategy games.
 
 Contact Details
 ===============
 + Name: Conan Cook
-+ Address: 7 Atrium Appartments, 13 Felton Street, London, N1 5NA
++ Address: 36 Park View, Collins Road, London N5 2UB
 + Phone: +44 (0) 7775 692424
 + Email: [cook.conan@gmail.com](mailto:cook.conan@gmail.com)
 + [LinkedIn](uk.linkedin.com/pub/conan-cook/21/9b4/265)

@@ -56,12 +56,20 @@ Infrastructure
 Experience
 ==========
 
-Senior Platform Developer (Java), [AMEE](http://www.amee.com), London 01/2012 - Today
-------------------------------------------------------------------------------
+Software Engineer, [Softwire](http://www.softwire.com), London, 06/2013 - Today
+-------------------------------------------------------------------------------
 
-My role includes both software development and systems architecture.  I am responsible for implementation of the back-end, but design the architecture for the entire system, including infrastructure, persistence, application architecture and messaging, and the accompanying systems and processes - TDD, continuous integration, deployment strategies, scalability and resilience, and security.  This includes specifications for external vendors, and integration with their systems.  My development team builds the core business platform supporting data access, providing RESTful APIs, batch database extracts and data analysis tooling.  It is both a rewarding and demanding position; I am consulted as the domain expert on application architecture and development practices.
+In my current role I'm working on a new project for the company's largest client, [Metaswitch](http://www.metaswitch.com/).  The project's aim is to build a number of significant extensions to Metaswitch's existing global telecommunications platform, and so the work involves getting stuck into a major body of 3rd-party code.  As well as providing experienced development resource to the project, I'm working hard on establishing effective processes to bridge the culture gap between the two companies; this ranges from setting up git-svn, to identifying optimisations in the test infrastructure that allow the incorporation of modern TDD and BDD approaches.  In addition, I'm expected to mentor less experienced developers, providing guidance in good coding practice in general as well as sharing expertise on the application specifics.
 
-In this role I’ve worked on an existing emissions calculation platform and delivered a highly scalable data collection system.  I am currently working on a business supply-chain risk analysis platform; having recently completed architectural plans for the initial phases of delivery, I am now implementing the back-end components.
+Tech stack: Java / Perl / MySQL / SQL Server  
+
+
+Senior Platform Developer (Java), [AMEE](http://www.amee.com), London 01/2012 - 06/2013
+---------------------------------------------------------------------------------------
+
+This role included both software development and systems architecture.  I was responsible for implementation of the back-end and design of the architecture for the entire system, including infrastructure, persistence, application architecture and messaging, and the accompanying systems and processes - BDD/TDD, continuous integration, deployment strategies, scalability and resilience, and security.  This includes specifications for external vendors, and integration with their systems.  My development team built the core business platform supporting data access, providing RESTful APIs, batch database extracts and data analysis tooling.  It is both a rewarding and demanding position; I am consulted as the domain expert on application architecture and development practices.
+
+In this role I worked on an existing emissions calculation platform and delivered a highly scalable data collection system.  Starting in late 2012, the company began development of a business supply-chain risk analysis platform.  Before the end of my time at AMEE, I completed architectural plans for the initial phases of delivery, my team implemented the solution and saw it through to launch.
 
 Tech stack: Groovy / Java / Jetty / Spring / Restlet / Hibernate / MySQL / Cassandra / Maven
 
@@ -95,7 +103,7 @@ Education / Qualifications
  
 Interests / Hobbies
 ===================
-+ I participate in a number of open-source and software communities, including [Cassandra London](http://www.meetup.com/Cassandra-London/).
++ I participate in a number of open-source and technology communities, including [Cassandra London](http://www.meetup.com/Cassandra-London/), the [London Java Community](http://www.meetup.com/Londonjavacommunity/), and [Cleanweb](http://www.cleanweb.org.uk/).
 + I swim and run regularly, and play squash and football.
 + I'm interested in music technology, and play the drums.
 + I like to read novels.

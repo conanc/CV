@@ -5,64 +5,67 @@ I consider myself a passionate developer, with a keen eye for best practice and 
 Skills
 ======
 
-Development
------------
-+ Java / J2EE
+Language
+--------
++ Clojure
++ Java 
 + Groovy
-+ Spring framework
-+ TDD / BDD
-+ JPA (Eclipselink, Toplink, Hibernate)
 
 Database
 --------
 + MySQL
++ Cassandra
 + Oracle
 + SQL Server
-+ Cassandra
 
-Messaging
+Infrastructure
+--------------
++ AWS
++ Chef
++ Linux (RedHat/Ubuntu/Debian)
++ Vagrant
++ VSphere
+
+Container
 ---------
-+ REST
-+ SOAP
-+ RabbitMQ
-+ JavaSpaces
-
-Containers
-----------
 + Tomcat
 + Jetty
-+ Restlet
 + Apache
 + Nginx
 + Spring
-+ DropWizard
+
+Ideology
+---------
++ TDD / BDD
++ Scrum
++ Lean
++ REST
++ Micro-services
 
 Collaboration
 -------------
 + Git
-+ Subversion
-+ Atlassian Jira, Confluence, Bamboo, Crucible/Fisheye
-+ Hudson/Jenkins
-+ Mingle
 + Trello
++ Jira
++ Subversion
++ Mingle
 + Bugzilla
 
-Infrastructure
---------------
-+ Windows
-+ UNIX (Solaris)
-+ Linux (RedHat/Ubuntu)
-+ AWS
-+ Vagrant (with VirtualBox)
-+ VSphere
 
 Experience
 ==========
 
-Software Engineer, [Softwire](http://www.softwire.com), London, 06/2013 - Today
--------------------------------------------------------------------------------
+Senior Software Engineer, [Bright North](http://www.brightnorth.co.uk/), London 01/2014 - Today
+-----------------------------------------------------------------------------------------------
 
-In my current role I'm working on a new project for the company's largest client, [Metaswitch](http://www.metaswitch.com/).  My team is currently around 8 people (5 devs), but there are also other teams working for the same client. The project's aim is to build a number of significant extensions to Metaswitch's existing global telecommunications platform, and so the work involves getting stuck into a major body of 3rd-party legacy code.  As well as providing experienced development resource to the project, I'm working hard on establishing effective processes to bridge the culture gap between the two companies; this ranges from setting up git-svn, to identifying optimisations in the test infrastructure that allow the incorporation of modern TDD and BDD approaches.  In addition, I'm expected to mentor less experienced developers, providing guidance in good coding practice in general as well as sharing expertise on the application specifics.  The development side has strong focuses on performance and security, as each installation of the system handles several million subscribers, many of whom are concurrently using their mobile phones and other devices.  The main challenges are focused around the introduction of stronger dev practices to improve the speed and quality of delivery. 
+My current role requires both full-stack involvement and non-technical responsibilities, as a result of the size of the engineering capability - we're currently 6 strong.  My delivery team works on both client projects and internal products, with firm deadlines and a strong quality ethic.  Development methodology varies between these two streams, as building to a brief and iterating on a product require different approaches, but things are kept as agile as is appropriate and we use TDD on everything.  Pragmatism is king.  My typical workload consists of building applications and infrastructure to support Bright North's data visualisation projects, evaluating technologies, building proofs of concept, and writing proposals.  I'm usually found plugging together micro-services to support a Saas web application of some sort.
+
+Tech stack: Highly variable, typically Clojure / Ring / Jetty / MySQL
+
+Software Engineer, [Softwire](http://www.softwire.com), London, 06/2013 - 01/2014
+---------------------------------------------------------------------------------
+
+At Softwire I delivered a project for the company's largest client, [Metaswitch](http://www.metaswitch.com/).  My team was around 8 people. The project's aim was to build a number of significant extensions to Metaswitch's existing global telecommunications platform, and so the work involved a major body of 3rd-party legacy code.  As well as providing experienced development resource to the project, I established effective processes to bridge the culture gap between the two companies; this rangesdfrom setting up git-svn, to introducing test infrastructure and a modern TDD development cycle.  In addition, I mentored less experienced developers, providing guidance in good coding practice as well as acting as a subject matter expert on the project application.  The project's development had a focus on performance and security, as each installation of the system handles several million subscribers, many of whom are concurrently using their mobile phones and other devices.  The main challenges are focused around the introduction of stronger dev practices to improve the speed and quality of delivery. 
 
 Outside of my immediate project, I actively participate in company-wide learning and knowledge sharing, by writing internal blog posts and giving input on technical issues in our discussion forums, organising external speakers for regular "Lunch & Learn" sessions, and speaking at those sessions myself.
 
@@ -89,7 +92,7 @@ Tech stack: Java / Tomcat / Spring / JavaSpaces / Hibernate / Oracle / GWT / Mav
 Senior Applications Developer (Portal), [University of the West of England](http://www.uwe.ac.uk), Bristol, 01/2009 – 12/2010
 -----------------------------------------------------------------------------------------------------------------------------
 
-Working in the Academic Technologies Group (ATG) within IT Services, my immediate team of 7 was responsible for delivery of a student web portal [myUWE](http://my.uwe.ac.uk), providing a full online environment for student activities, from initial registration and payment of fees (>£2m in 2010), through accessing the virtual learning environment, submitting coursework, receiving results and supporting functionality such as email and faculty announcements as well as teaching and exam timetables.  The portal was (and still is) the primary means of accessing these services, making it a critical part of the student experience at UWE.  The university has around 28,000 student and 3000 staff users, with around 8000 distinct logins per day; data protection therefore numbers among my responsibilities.  The role requires that I am an expert in the platform we use – Jasig’s uPortal - and its optimisation and maintenance.  During my time at UWE I was promoted to Senior Developer, gaining responsibility for security, performance, development processes, technical documentation and also leading system maintenance.  I enjoyed advising on technology and liasing with all levels of stakeholder, from students to senior management.  Whilst in this post I actively engaged in the open source community, exchanging technology and sharing knowledge with my contemporaries at other universities around the world.
+Working in the Academic Technologies Group within IT Services, my immediate team of 7 was responsible for delivery of a student web portal [myUWE](http://my.uwe.ac.uk), providing a full online environment for student activities, from initial registration and payment of fees (>£2m in 2010), through accessing the virtual learning environment, submitting coursework, receiving results and supporting functionality such as email and faculty announcements as well as teaching and exam timetables.  The portal was (and still is) the primary means of accessing these services, making it a critical part of the student experience at UWE.  The university has around 28,000 student and 3000 staff users, with around 8000 distinct logins per day; data protection therefore numbers among my responsibilities.  The role requires that I am an expert in the platform we use – Jasig’s uPortal - and its optimisation and maintenance.  During my time at UWE I was promoted to Senior Developer, gaining responsibility for security, performance, development processes, technical documentation and also leading system maintenance.  I enjoyed advising on technology and liasing with all levels of stakeholder, from students to senior management.  Whilst in this post I actively engaged in the open source community, exchanging technology and sharing knowledge with my contemporaries at other universities around the world.
 
 Tech stack: Java / Tomcat / Spring / Portlet / TopLink / SQL Server / XSLT / Maven
  
@@ -98,17 +101,17 @@ Applications Developer (Java), [University of the West of England](http://www.uw
 --------------------------------------------------------------------------------------------------------------------
 
 Please see above.
+
  
 Education / Qualifications
 ==========================
 + Sun Certified Java Programmer (SCJP) for the Java 2 Platform, April 8th 2008
 + BSc (Hons) 2.1 in Computer Science from the University of Edinburgh, 1999 – 2003
 + A-Levels: Maths, Physics, Latin, all grade 'A'.
-+ AS-Levels: French, grade 'A'.
  
 Interests / Hobbies
 ===================
-+ I participate in a number of open-source and technology communities, including [Cassandra London](http://www.meetup.com/Cassandra-London/), the [London Java Community](http://www.meetup.com/Londonjavacommunity/), and [Cleanweb](http://www.cleanweb.org.uk/).
++ I participate in a number of open-source and technology communities, including the [London Clojurians](http://londonclojurians.org/), the [London Java Community](http://www.meetup.com/Londonjavacommunity/), and [Cleanweb](http://www.cleanweb.org.uk/).
 + I swim and run regularly, and play squash and football.
 + I'm interested in music technology, and play the drums.
 + I like to read novels and play strategy games.
@@ -116,7 +119,6 @@ Interests / Hobbies
 Contact Details
 ===============
 + Name: Conan Cook
-+ Address: 36 Park View, Collins Road, London N5 2UB
-+ Phone: +44 (0) 7775 692424
++ Address: 36 Purcell Street, Hoxton, London N1 6RD
 + Email: [cook.conan@gmail.com](mailto:cook.conan@gmail.com)
 + [LinkedIn](uk.linkedin.com/pub/conan-cook/21/9b4/265)

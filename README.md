@@ -122,4 +122,5 @@ Contact Details
 + Address: 36 Purcell Street, Hoxton, London N1 6RD
 + Email: [cook.conan@gmail.com](mailto:cook.conan@gmail.com)
 + [LinkedIn](uk.linkedin.com/pub/conan-cook/21/9b4/265)
-+ [twitter](https://twitter.com/conanistweeting)
++ [Twitter](https://twitter.com/conanistweeting)
++ [Blog](http://conan.is)

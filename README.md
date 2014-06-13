@@ -58,7 +58,7 @@ Experience
 Senior Software Engineer, [Bright North](http://www.brightnorth.co.uk/), London 01/2014 - Today
 -----------------------------------------------------------------------------------------------
 
-My current role requires both full-stack involvement and non-technical responsibilities, as a result of the size of the engineering capability - we're currently 6 strong.  My delivery team works on both client projects and internal products, with firm deadlines and a strong quality ethic.  Development methodology varies between these two streams, as building to a brief and iterating on a product require different approaches, but things are kept as agile as is appropriate and we use TDD on everything.  Pragmatism is king.  My typical workload consists of building applications and infrastructure to support Bright North's data visualisation projects, evaluating technologies, building proofs of concept, and writing proposals.  I'm usually found plugging together micro-services to support a Saas web application of some sort.
+My current role requires both full-stack polyglot development and non-technical responsibilities, as a result of the size of the engineering capability - we're currently 6 strong.  My delivery team works on both client projects and internal products, with firm deadlines and a strong quality ethic.  Development methodology varies between these two streams, as building to a brief and iterating on a product require different approaches, but things are kept as agile as is appropriate and we use TDD on everything.  Pragmatism is king.  My typical workload consists of building applications and infrastructure to support Bright North's data visualisation projects, evaluating technologies, building proofs of concept, and writing proposals.  I'm usually found plugging together micro-services in the guts of a Saas web application of some sort.
 
 Tech stack: Highly variable, typically Clojure / Ring / Jetty / MySQL
 
@@ -122,3 +122,4 @@ Contact Details
 + Address: 36 Purcell Street, Hoxton, London N1 6RD
 + Email: [cook.conan@gmail.com](mailto:cook.conan@gmail.com)
 + [LinkedIn](uk.linkedin.com/pub/conan-cook/21/9b4/265)
++ [twitter](https://twitter.com/conanistweeting)

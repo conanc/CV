@@ -5,11 +5,12 @@ I consider myself a passionate developer, with a keen eye for best practice and 
 Skills
 ======
 
-Language
---------
+Development
+-----------
 + Clojure
 + Java 
 + Groovy
++ Angular
 
 Database
 --------

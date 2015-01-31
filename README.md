@@ -1,6 +1,6 @@
 Conan Cook
 ==========
-I consider myself a passionate developer, with a keen eye for best practice and pragmatic architecture.  I keep a positive attitude and a good approach, and value these things in my team.  Please note, I'm not currently interested in positions outside of London or offers that don't include a company name and salary.
+I like shipping early and often.  I believe in automation.  I have opinions on commercials.  I don't think there's a trade-off between quality and speed.  I'm passionate about what I do, and that will be shared with you.
  
 Skills
 ======
@@ -40,9 +40,9 @@ Experience
 Senior Software Engineer, [Bright North](http://www.brightnorth.co.uk/), London 01/2014 - Today
 -----------------------------------------------------------------------------------------------
 
-My current role requires both full-stack polyglot development and non-technical responsibilities, as a result of the size of the engineering capability - we're currently 8 strong.  My delivery team works on both client projects and internal products, with firm deadlines and a strong quality ethic.  Development methodology varies between these two streams, as building to a brief and iterating on a product require different approaches, but things are kept as agile as is appropriate and we use TDD on everything.  Pragmatism is king.  My typical workload consists of building applications and infrastructure to support Bright North's data visualisation projects, evaluating technologies, building proofs of concept, and writing proposals.  I'm usually found plugging together micro-services in the guts of a SaaS web application of some sort.
+My current role requires both full-stack polyglot development and non-technical responsibilities, as a result of the size of the engineering capability - we're currently 6 strong.  My delivery team works to firm deadlines with strong quality ethic.  Development methodology is adapted to fit the moment, based around agile and TDD.  Pragmatism is king.  My typical workload consists of building applications and infrastructure to support Bright North's ecommerce optimisation projects, evaluating technologies, building proofs of concept, and writing proposals.  I'm usually found plugging together micro-services in the guts of a SaaS web application of some sort.
 
-Tech stack: Highly variable, typically Angular / Clojure / MySQL / Chef
+Tech stack: Variable, typically Clojure / Clojurescript / MySQL / Elasticsearch / Chef / AWS
 
 Software Engineer, [Softwire](http://www.softwire.com), London, 06/2013 - 01/2014
 ---------------------------------------------------------------------------------

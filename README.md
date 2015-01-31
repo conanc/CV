@@ -10,13 +10,14 @@ Development
 + Clojure
 + Java 
 + Groovy
-+ Angular.js
 
 Database
 ----------
 + SQL (MySQL / PostgreSQL / Oracle / MSSQL)
 + Cassandra
 + Elasticsearch
++ Redis
++ DynamoDB
 
 Infrastructure
 --------------
@@ -24,8 +25,6 @@ Infrastructure
 + Chef
 + Linux (RedHat/Ubuntu/Debian)
 + Vagrant
-+ VSphere
-+ JVM
 
 Methodology
 -----------

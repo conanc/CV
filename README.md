@@ -59,7 +59,7 @@ I was active in company-wide learning and knowledge sharing, writing internal bl
 
 Tech stack: Java / Perl / MySQL / SQL Server  
 
-Senior Platform Developer (Java), [AMEE](http://www.amee.com), London 01/2012 - 06/2013
+Senior Platform Developer, [AMEE](http://www.amee.com), London 01/2012 - 06/2013
 ---------------------------------------------------------------------------------------
 
 This role included both software development and systems architecture.  I was implementing the back-end and designing the full architecture, including infrastructure, persistence, service architecture and messaging, and the accompanying systems and processes - BDD/TDD, continuous integration, deployment strategies, scalability and resilience, security and third party integrations.  My team built core business platforms supporting data access, RESTful APIs, batch database extracts and data analysis tooling.  I was the domain expert on application architecture and development practices.
@@ -75,7 +75,7 @@ At Markit I worked in an international team developing financial indices.  Our g
 
 Tech stack: Java / Tomcat / Spring / JavaSpaces / Hibernate / Oracle / GWT / Maven
  
-Senior Applications Developer (Portal), [University of the West of England](http://www.uwe.ac.uk), Bristol, 08/2006 – 12/2010
+Senior Applications Developer, [University of the West of England](http://www.uwe.ac.uk), Bristol, 08/2006 – 12/2010
 -----------------------------------------------------------------------------------------------------------------------------
 
 Working in the Academic Technologies Group within IT Services, my immediate team of 7 was responsible for delivery of a student web portal [myUWE](http://my.uwe.ac.uk), providing a full online environment for student activities, from initial registration and payment of fees (>£2m in 2010), through accessing the virtual learning environment, submitting coursework, receiving results and supporting functionality such as email and faculty announcements as well as teaching and exam timetables.  The university at the time had around 28,000 student and 3000 staff users, with around 8000 distinct logins per day; data protection was important.  During my time at UWE I was promoted to Senior Developer, gaining responsibility for security, performance, development processes, technical documentation and also leading system maintenance. 

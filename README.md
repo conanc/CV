@@ -53,7 +53,7 @@ Tech stack: Clojure / Clojurescript / MySQL / Elasticsearch / RedShift / RabbitM
 Software Engineer, [Softwire](http://www.softwire.com), London, 06/2013 - 01/2014
 ---------------------------------------------------------------------------------
 
-At Softwire I delivered a project for the company's largest client, [Metaswitch](http://www.metaswitch.com/), on a platform handling messaging for over 40% of all US mobile subscribers.  My team was around 8 people. The aim was to build significant extensions to Metaswitch's existing global telecommunications platform, so the work involved a major body of 3rd-party legacy code.  As the experienced development resource on the project, I established processes to bridge the culture gap between the two companies, ranging from setting up git-svn, to introducing test infrastructure and a modern TDD development cycle.  I mentored junior developers on coding best practice, and acted as a subject matter expert on the application.  I actually achieved more through the introduction of stronger dev practices improving the speed and quality of delivery than through the features I personally built.
+At Softwire I delivered a project for the company's largest client, [Metaswitch](http://www.metaswitch.com/), on a platform handling messaging for over 40% of all US mobile subscribers.  My team was around 8 people. The aim was to build significant extensions to Metaswitch's existing global telecommunications systems, so the work involved a major body of 3rd-party legacy code.  As the experienced development resource on the project, I established processes to bridge the culture gap between the two companies, ranging from setting up git-svn, to introducing test infrastructure and a modern TDD development cycle.  I mentored junior developers on coding best practice, and acted as a subject matter expert on the application.  I achieved far more through the introduction of stronger dev practices improving the speed and quality of delivery than through the features I personally built.
 
 I was active in company-wide learning and knowledge sharing, writing internal blog posts and contributing to technical discussion in our forums, organising external speakers for regular "Lunch & Learn" sessions, and speaking at those sessions myself.
 
@@ -64,14 +64,14 @@ Senior Platform Developer (Java), [AMEE](http://www.amee.com), London 01/2012 - 
 
 This role included both software development and systems architecture.  I was implementing the back-end and designing the full architecture, including infrastructure, persistence, service architecture and messaging, and the accompanying systems and processes - BDD/TDD, continuous integration, deployment strategies, scalability and resilience, security and third party integrations.  My team built core business platforms supporting data access, RESTful APIs, batch database extracts and data analysis tooling.  I was the domain expert on application architecture and development practices.
 
-Products included an emissions calculation platform and a highly scalable data collection system.  Starting in late 2012, the company pivoted and began development of a business supply-chain risk analysis platform. I completed architectural plans for the initial phases of delivery, my team implemented the solution and saw it through to launch.
+I worked on three core products: an emissions calculation platform, a high-performance data aggregation system, and after a company pivot in late 2012, a business supply-chain risk analysis platform. For the latter I designed the architecture and planned the initial phases of delivery, my team implemented the solution and we saw it through to launch.
 
 Tech stack: Groovy / Java / Jetty / Spring / Restlet / Hibernate / MySQL / Cassandra / Maven
 
-Associate Vice President, Developer, [Markit](http://www.markit.com), London, 01/2011 - 01/2012
+Associate Vice President, [Markit](http://www.markit.com), London, 01/2011 - 01/2012
 -----------------------------------------------------------------------------------------------
 
-At Markit I worked in an international team developing financial indices.  An understanding of both our technology and business was essential in this role as it involved collaboration with analysts in both the UK and US.  Methodology was agile with monthly release cycles.  I had responsibility for maintenance and support of the entire codebase, as well as deployment and disaster recovery.  My key projects were index products, providing performance analysis of various structured financial instruments for investors.  I also snuck in some major build system improvements, too.
+At Markit I worked in an international team developing financial indices.  Our globally distributed team used an agile methodoloy with monthly release cycles.  I had responsibility for maintenance and support of the entire codebase, as well as deployment and disaster recovery.  My key projects were structured finance index products, providing performance analysis for investors and traders.  I also snuck in some major build system improvements, too.
 
 Tech stack: Java / Tomcat / Spring / JavaSpaces / Hibernate / Oracle / GWT / Maven
  

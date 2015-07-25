@@ -46,7 +46,7 @@ Experience
 Senior Software Engineer, [Bright North](http://www.brightnorth.co.uk/), London 01/2014 - Today
 -----------------------------------------------------------------------------------------------
 
-My current role requires both full-stack development and non-technical responsibilities, as a result of the size of the engineering capability - we're 6 strong.  I provide technical, architectural and process leadership for our [Convolo platform](http://www.brightnorth.co.uk/platform.html).  In the last year I've successfully led a project that delivered a self-service recruitment website, as well as participating in teams that delivered a social ecommerce platform and Bright North's core product after a pivot. We work to firm deadlines with a strong quality ethic.  Development methodology is pragmatic not dogmatic, based on agile and TDD.  I consider continuous integration and peer review to be first-class activities.  I'm usually found plugging together micro-services in the guts of a SaaS web application of some sort.
+My current role requires both full-stack development and non-technical responsibilities, as a result of the size of the engineering capability - we're 6 strong.  I provide technical, architectural and process leadership for our [Convolo platform](http://www.brightnorth.co.uk/platform.html), a microservice-based application featuring a high-performance messaging pipeline, real-time graphing interface and batch ETL jobs.  In the last year I've successfully led a project that delivered a self-service recruitment website, as well as participating in teams that delivered a social ecommerce platform and Bright North's core product after a pivot. We work to firm deadlines with a strong quality ethic.  Development methodology is pragmatic not dogmatic, based on agile and TDD.  I consider continuous integration and peer review to be first-class activities.  I'm usually found plugging together micro-services in the guts of a SaaS web application of some sort.
 
 Tech stack: Clojure / Clojurescript / MySQL / Elasticsearch / RedShift / RabbitMQ / SQS / Chef / AWS
 
@@ -100,5 +100,6 @@ Contact
 + Address: 36 Purcell Street, Hoxton, London N1 6RD
 + Email: [conan.cook@gmail.com](mailto:conan.cook@gmail.com)
 + [Blog](http://conan.is)
++ [GitHub](https://github.com/conan)
 + [Twitter](https://twitter.com/conanistweeting)
 + [LinkedIn](uk.linkedin.com/pub/conan-cook/21/9b4/265)

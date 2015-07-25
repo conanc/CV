@@ -38,7 +38,7 @@ Methodology
 + TDD / BDD
 + Agile (Scrum, XP)
 + Lean
-+ Micro-services
++ Microservices
 
 Experience
 ==========

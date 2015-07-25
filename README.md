@@ -1,6 +1,6 @@
 Conan Cook
 ==========
-I like shipping early and often.  I believe in automation.  I have opinions on commercials.  I don't think there's a trade-off between quality and speed.  I'm passionate about what I do, and that will be shared with you.  I'm currently digging functional programming.
+I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I have opinions on commercials.  I'm passionate about what I do, and that will be shared with you.  I'm currently digging functional programming.
  
 Skills
 ======
@@ -12,13 +12,19 @@ Development
 + Java 
 + Groovy
 
-Database
-----------
+Data Stores
+-----------
 + SQL (MySQL / PostgreSQL / Oracle / MSSQL)
 + Cassandra
 + Elasticsearch
 + Redis
 + DynamoDB
++ RedShift
+
+Messaging
+---------
++ RabbitMQ
++ SQS
 
 Infrastructure
 --------------
@@ -30,8 +36,7 @@ Infrastructure
 Methodology
 -----------
 + TDD / BDD
-+ Scrum
-+ XP
++ Agile (Scrum, XP)
 + Lean
 + Micro-services
 
@@ -41,9 +46,9 @@ Experience
 Senior Software Engineer, [Bright North](http://www.brightnorth.co.uk/), London 01/2014 - Today
 -----------------------------------------------------------------------------------------------
 
-My current role requires both full-stack polyglot development and non-technical responsibilities, as a result of the size of the engineering capability - we're currently 6 strong.  I'm the technical lead for our [product feeds](http://www.brightnorth.co.uk/solutions/product-feed-creation.html) product, and recently led and performed dev work on a project to build a revolutionary new recruitment site, [intros](https://intros.io/). In my team we work to firm deadlines with a strong quality ethic.  Development methodology is adapted to fit, based on agile and TDD.  Pragmatism is king.  My typical workload consists of building applications and infrastructure to support Bright North's ecommerce optimisation projects, evaluating technologies, building proofs of concept, and writing proposals.  I'm usually found plugging together micro-services in the guts of a SaaS web application of some sort.
+My current role requires both full-stack development and non-technical responsibilities, as a result of the size of the engineering capability - we're 6 strong.  I provide technical, architectural and process leadership for our [Convolo platform](http://www.brightnorth.co.uk/platform.html).  In the last year I've successfully led a project that delivered a self-service recruitment website, as well as participating in teams that delivered a social ecommerce platform and Bright North's core product after a pivot. We work to firm deadlines with a strong quality ethic.  Development methodology is pragmatic not dogmatic, based on agile and TDD.  I consider continuous integration and peer review to be first-class activities.  I'm usually found plugging together micro-services in the guts of a SaaS web application of some sort.
 
-Tech stack: Typically Clojure / Clojurescript / MySQL / Elasticsearch / Chef / AWS
+Tech stack: Clojure / Clojurescript / MySQL / Elasticsearch / RedShift / RabbitMQ / SQS / Chef / AWS
 
 Software Engineer, [Softwire](http://www.softwire.com), London, 06/2013 - 01/2014
 ---------------------------------------------------------------------------------
@@ -93,7 +98,7 @@ Contact
 =======
 + Name: Conan Cook
 + Address: 36 Purcell Street, Hoxton, London N1 6RD
-+ Email: [cook.conan@gmail.com](mailto:cook.conan@gmail.com)
++ Email: [conan.cook@gmail.com](mailto:conan.cook@gmail.com)
 + [Blog](http://conan.is)
 + [Twitter](https://twitter.com/conanistweeting)
 + [LinkedIn](uk.linkedin.com/pub/conan-cook/21/9b4/265)

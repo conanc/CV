@@ -109,4 +109,4 @@ Contact
 + [Blog](http://conan.is)
 + [GitHub](https://github.com/conan)
 + [Twitter](https://twitter.com/conanistweeting)
-+ [LinkedIn](uk.linkedin.com/pub/conan-cook/21/9b4/265)
++ [LinkedIn](https://uk.linkedin.com/in/conancook)

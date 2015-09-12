@@ -1,6 +1,6 @@
 Conan Cook
 ==========
-I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I have opinions on commercials.  I'm passionate about what I do, and that will be shared with you.  I'm currently digging functional programming.
+I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I have opinions on commercials.  I'm passionate about what I do, and will never finish learning.  I consider continuous integration and peer review to be first-class activities.  I'm currently digging functional programming.
  
 Skills
 ======
@@ -8,7 +8,7 @@ Skills
 Development
 -----------
 + Clojure
-+ ClojureScript
++ ClojureScript (Om / Reagent)
 + Java 
 + Groovy
 
@@ -30,7 +30,6 @@ Infrastructure
 --------------
 + Lots of AWS
 + Chef
-+ Linux (RedHat/Ubuntu/Debian)
 + Vagrant
 
 Methodology
@@ -46,13 +45,15 @@ Experience
 Clojure Lead, [Condé Nast Commerce](http://www.condenastinternational.com/initiatives/cond%C3%A9-nast-global-e-commerce/), London 09/2015 - Today
 ----------------------
 
-Tech stack: Clojure / Clojurescript / 
+Contributing to all areas of the new [style.com](http://style.com), developing a best-in-class luxury ecommerce experience.  I'm responsible for ensuring technical excellence of our development efforts, and identifying improvements to add value and increase velocity.  I mentor junior developers and provide technical consultancy to product owners.  I'm working to evangelise our engineering efforts across the company and externally, in order to further build cohesive, effective delivery teams.  I'm currently assigned to our web cell, focusing on the client-side website.
+
+Tech stack: Clojure / Clojurescript / Reagent / SASS
 
 
 Senior Software Engineer, [Bright North](http://www.brightnorth.co.uk/), London 01/2014 - 08/2015
 -------------------------------------------------------------------------------------------------
 
-My current role requires both full-stack development and non-technical responsibilities, as a result of the size of the engineering capability - we're 6 strong.  I provide technical, architectural and process leadership for our [Convolo platform](http://www.brightnorth.co.uk/platform.html), a microservice-based application featuring a high-performance messaging pipeline, real-time graphing interface and batch ETL jobs.  In the last year I've successfully led a project that delivered a self-service recruitment website, as well as participating in teams that delivered a social ecommerce platform and Bright North's core product after a pivot. We work to firm deadlines with a strong quality ethic.  Development methodology is pragmatic not dogmatic, based on agile and TDD.  I consider continuous integration and peer review to be first-class activities.  I'm usually found plugging together micro-services in the guts of a SaaS web application of some sort.
+As a full-stack engineer, I provided technical, architectural and procedural leadership for our [Convolo platform](http://www.brightnorth.co.uk/platform.html), a microservice-based application featuring a high-performance messaging pipeline, real-time graphing interface and batch ETL jobs.  I led a project that delivered a self-service recruitment website, as well as building a social ecommerce platform [Social Superstore](http://socialsuperstore.com/), and Bright North's core product after a pivot. We work to firm deadlines with a strong quality ethic.  Development methodology was pragmatic not dogmatic, based on agile and TDD. 
 
 Tech stack: Clojure / Clojurescript / MySQL / Elasticsearch / RedShift / RabbitMQ / SQS / Chef / AWS
 

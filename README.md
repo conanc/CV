@@ -1,6 +1,6 @@
 Conan Cook
 ==========
-I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I have opinions on commercials.  I'm passionate about what I do, and will never finish learning.  I consider continuous integration and peer review to be first-class activities.  I'm currently digging functional programming.
+I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I have opinions on commercials.  I'm passionate about what I do, and will never finish learning.  I consider continuous integration and peer review to be first-class activities.  I enjoy bringing products to market.
  
 Skills
 ======
@@ -14,6 +14,7 @@ Development
 
 Data Stores
 -----------
++ Datomic
 + SQL (MySQL / PostgreSQL / Oracle / MSSQL)
 + Cassandra
 + Elasticsearch
@@ -42,12 +43,12 @@ Methodology
 Experience
 ==========
 
-Clojure Lead, [Condé Nast Commerce](http://www.condenastinternational.com/initiatives/cond%C3%A9-nast-global-e-commerce/), London 09/2015 - Today
+Technical Lead, [Style.com](https://www.style.com), London 09/2015 - Today
 ----------------------
 
-Contributing to all areas of the new [style.com](http://style.com), developing a best-in-class luxury ecommerce experience.  I'm responsible for ensuring technical excellence of our development efforts, and identifying improvements to add value and increase velocity.  I mentor junior developers and provide technical consultancy to product owners.  I'm working to evangelise our engineering efforts across the company and externally, in order to further build cohesive, effective delivery teams.  I'm currently assigned to our web cell, focusing on the client-side website.
+Contributing to all areas of the new [Style.com](https://www.style.com), developing a best-in-class luxury ecommerce experience.  I'm responsible for ensuring technical excellence of our development efforts, and identifying improvements to add value and increase velocity.  I mentor junior developers and provide technical consultancy to product owners.  I'm working to evangelise our engineering efforts across the company and externally, in order to further build cohesive, effective delivery teams.  So far we've built and launched the site in the UK and EU - US coming soon!
 
-Tech stack: Clojure / Clojurescript / Reagent / SASS
+Tech stack: Clojure / Datomic / Clojurescript / Reagent / SASS
 
 
 Senior Software Engineer, [Bright North](http://www.brightnorth.co.uk/), London 01/2014 - 08/2015

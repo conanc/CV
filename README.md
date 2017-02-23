@@ -46,7 +46,7 @@ Experience
 Technical Lead, [Style.com](https://www.style.com), London 09/2015 - Today
 ----------------------
 
-Contributing to all areas of the new [Style.com](https://www.style.com), developing a best-in-class luxury ecommerce experience.  I'm responsible for ensuring technical excellence of our development efforts, and identifying improvements to add value and increase velocity.  I mentor junior developers and provide technical consultancy to product owners.  I'm working to evangelise our engineering efforts across the company and externally, in order to further build cohesive, effective delivery teams.  So far we've built and launched the site in the UK and EU - US coming soon!
+Contributing from inception to launch of the new [Style.com](https://www.style.com), developing a best-in-class luxury ecommerce experience.  I'm responsible for ensuring technical excellence of our development efforts, and identifying improvements to add value and increase velocity.  I mentor junior developers and provide technical consultancy to product owners.  I'm working to evangelise our engineering efforts across the company and externally, in order to further build cohesive, effective delivery teams.  So far we've built and launched the site in the UK and EU - US coming soon!
 
 Tech stack: Clojure / Datomic / Clojurescript / Reagent / SASS
 
@@ -98,8 +98,8 @@ Education / Qualifications
  
 Interests
 =========
-+ I participate in a number of open-source and technology communities, including the [London Clojurians](http://londonclojurians.org/), the [London Java Community](http://www.meetup.com/Londonjavacommunity/), and [Cleanweb](http://www.cleanweb.org.uk/)
-+ I swim and run regularly, play squash well and football badly, and ski
++ I'm an active member of the [London Clojurians](http://londonclojurians.org/)
++ I swim and run, play squash well and football badly, and ski
 + I'm interested in music technology, and play the drums
 
 Contact
@@ -111,3 +111,4 @@ Contact
 + [GitHub](https://github.com/conan)
 + [Twitter](https://twitter.com/conanistweeting)
 + [LinkedIn](https://uk.linkedin.com/in/conancook)
++ [Clojurians Slack](https://clojurians.slack.com/team/conan)

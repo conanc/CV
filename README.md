@@ -1,6 +1,6 @@
 Conan Cook
 ==========
-I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I have opinions on commercials.  I'm passionate about what I do, and will never finish learning.  I consider continuous integration and peer review to be first-class activities.  I enjoy bringing products to market.
+I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I have opinions on commercials.  I'm passionate about what I do, and will never finish learning.  I consider continuous integration and peer review to be first-class activities.  I specialise in bringing products to market.
  
 Skills
 ======

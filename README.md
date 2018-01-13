@@ -101,7 +101,6 @@ Education / Qualifications
 ==========================
 + Sun Certified Java Programmer (SCJP) for the Java 2 Platform, April 8th 2008
 + BSc (Hons) 2.1 in Computer Science from the University of Edinburgh, 1999 – 2003
-+ A-Levels: Maths, Physics, Latin, all grade 'A'.
 
 Contact
 =======

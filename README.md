@@ -43,7 +43,7 @@ Methodology
 Experience
 ==========
 
-Technical Lead, [Entrepreneur First](https://joinef.com), 06/2017 - today
+Technical Lead, [Entrepreneur First](https://www.joinef.com), 06/2017 - today
 -------------------------------------------------------------------------
 
 Heading up the engineering function at EF, I'm responsible for building the team from scratch and providing systems to multiply the effectiveness of the company's operations.  We're a data-driven company, so facilitating analysis and access to data is my primary concern.  

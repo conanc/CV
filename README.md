@@ -102,12 +102,6 @@ Education / Qualifications
 + Sun Certified Java Programmer (SCJP) for the Java 2 Platform, April 8th 2008
 + BSc (Hons) 2.1 in Computer Science from the University of Edinburgh, 1999 – 2003
 + A-Levels: Maths, Physics, Latin, all grade 'A'.
- 
-Interests
-=========
-+ I'm an active member of the [London Clojurians](http://londonclojurians.org/)
-+ I swim and run, play squash well and football badly, and ski
-+ I'm interested in music technology, and play the drums
 
 Contact
 =======

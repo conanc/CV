@@ -111,9 +111,7 @@ Interests
 
 Contact
 =======
-+ Name: Conan Cook
-+ Address: 36 Purcell Street, Hoxton, London N1 6RD
-+ Email: [conan.cook@gmail.com](mailto:conan.cook@gmail.com)
++ [conan.cook@gmail.com](mailto:conan.cook@gmail.com)
 + [Blog](http://conan.is)
 + [GitHub](https://github.com/conan)
 + [Twitter](https://twitter.com/willypimpernel)

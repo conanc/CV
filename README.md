@@ -1,6 +1,6 @@
 Conan Cook
 ==========
-Product-oriented full-stack engineer and manager.  I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I'm passionate about what I do, and will never finish learning.  I consider continuous integration and peer review to be first-class activities.  I specialise in building teams and bringing products to market.
+Product-oriented full-stack engineering manager.  I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I'm passionate about what I do, and will never finish learning.  I consider continuous integration and peer review to be first-class activities.  I specialise in building teams and bringing products to market.
  
 Skills
 ======

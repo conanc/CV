@@ -1,6 +1,6 @@
 Conan Cook
 ==========
-Product-oriented full-stack engineer.  I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I'm passionate about what I do, and will never finish learning.  I consider continuous integration and peer review to be first-class activities.  I specialise in building teams and bringing products to market.
+Product-oriented full-stack engineer and manager.  I like shipping early and often.  I believe in automation.  I don't think there's a trade-off between quality and speed.  I'm passionate about what I do, and will never finish learning.  I consider continuous integration and peer review to be first-class activities.  I specialise in building teams and bringing products to market.
  
 Skills
 ======
@@ -9,8 +9,7 @@ Development
 -----------
 + Clojure
 + ClojureScript (Om / Reagent)
-+ Java 
-+ Groovy
++ Other well-known JVM languages
 
 Data Stores
 -----------
@@ -20,12 +19,6 @@ Data Stores
 + Elasticsearch
 + Redis
 + DynamoDB
-+ RedShift
-
-Messaging
----------
-+ RabbitMQ
-+ SQS
 
 Infrastructure
 --------------
@@ -46,9 +39,9 @@ Experience
 Technical Lead, [Entrepreneur First](https://www.joinef.com), 06/2017 - today
 -------------------------------------------------------------------------
 
-Heading up the engineering function at EF, I'm responsible for building the team from scratch and providing systems to multiply the effectiveness of the company's operations.  We're a data-driven company, so facilitating analysis and access to data is my primary concern.  
+Heading up the engineering function at EF, I'm responsible for building the team from scratch and providing systems to multiply the effectiveness of the company's operations.  We're defining a category, so product discovery and strategy are important components of my work here.  
 
-Tech stack: Clojure / Postgres / ClojureScript / Reagent
+Tech stack: Clojure / Postgres / Datomic / ClojureScript / Reagent
 
 
 Technical Lead, Style.com, London 09/2015 - 06/2017

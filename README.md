@@ -101,5 +101,5 @@ Contact
 + [Blog](http://conan.is)
 + [GitHub](https://github.com/conan)
 + [Twitter](https://twitter.com/willypimpernel)
-+ [LinkedIn](https://uk.linkedin.com/in/conancook)
++ [LinkedIn](https://www.linkedin.com/in/conancook)
 + [Clojurians Slack](https://clojurians.slack.com/team/conan)

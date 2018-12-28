@@ -19,12 +19,11 @@ Data Stores
 + SQL (MySQL / PostgreSQL / Oracle / MSSQL)
 + Cassandra
 + Elasticsearch
-+ Redis
-+ DynamoDB
 
 Infrastructure
 --------------
 + AWS
++ Containers
 
 Methodology
 -----------

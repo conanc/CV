@@ -102,4 +102,4 @@ Contact
 + [GitHub](https://github.com/conan)
 + [Twitter](https://twitter.com/willypimpernel)
 + [LinkedIn](https://www.linkedin.com/in/conancook)
-+ [Clojurians Slack](https://clojurians.slack.com/team/conan)
++ [Clojurians Slack](slack://user?team=T03RZGPFR&id=U053032QC)

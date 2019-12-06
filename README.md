@@ -1,11 +1,17 @@
 # Conan Cook
 
-Product-oriented full-stack engineering manager.  I'm focused on feedback, honesty and growth.  I like shipping early and often, and believe in automation; I consider continuous integration and peer review to be first-class activities.  I don't think there's a trade-off between quality and speed - it's about building the right thing well.  I'm passionate about what I do, and will never finish learning; I enjoy helping others to learn, too.  I can help you build teams and bring products to market.
+Product-oriented full-stack engineering manager.  I'm focused on feedback, honesty and growth.  I like shipping early and often, and believe in automation; I consider continuous integration and peer review to be first-class activities.  I don't think there's a trade-off between quality and speed - it's about building the right thing well.  I'm passionate about what I do, and will never finish learning; I enjoy helping others to learn, too.  Management is the empowerment of others.  I can help you build teams and bring products to market.
 
-My current goals are to spend more time talking to customers and to continue growing my leadership skills.
+My current goals are to spend more time talking to customers and to continue growing my management leadership skills, particularly around active listening.
  
  
 # Skills
+
+## Management
+
++ Feedback
++ 1:1s 
++ Interviewing & assessment
 
 ## Development
 
@@ -24,7 +30,7 @@ My current goals are to spend more time talking to customers and to continue gro
 
 + AWS
 + Heroku
-+ Containers
++ Docker
 
 ## Methodology
 
@@ -36,26 +42,33 @@ My current goals are to spend more time talking to customers and to continue gro
 
 # Experience
 
+## Head of Product Engineering, [Cervest](https://cervest.earth)
+### London, 02/2019 - Today
+
+As the second engineer in the company I've been involved in our product journey from an early stage, and have taken on the responsibility of running the Product Engineering team.  We deliver the client-facing applications, which includes a heavy data visualisation element.  We present historical and forecast data from third parties and our Science team to our users to enable sustainable land use decision-making. I find myself variously recruiting, acting as scrum master, mentoring, defining requirements with the Product team, engaging in user research and taking an active hand in our company culture and direction, as well as ensuring successful design and implementation of our core systems. As it's a small company I've also been involved in building our data pipelines that run highly intensive batch jobs to process remote sensing (satellite) data for the entire globe.
+
+Tech stack: Clojure(Script) / Datomic / Material Components Web / SASS / Heroku / PostGIS / Docker / lots of AWS
+
 ## Technical Lead, [Entrepreneur First](https://www.joinef.com)
-### London, 06/2017 - today
+### London, 06/2017 - 03/2019
 
-Heading up the engineering function at EF, I'm responsible for building the team from scratch and providing systems to multiply the effectiveness of the company's operations.  We're defining a category, so product discovery and strategy are important components of my work here.  
+Heading up the engineering function at EF, I was responsible for building the team from scratch and providing systems to multiply the effectiveness of the company's operations.  EF is defining a category, so product discovery and strategy were important components of my work here. The tools were primarily social ones, as the business is a people-first enterprise.
 
-Tech stack: Clojure / Postgres / Datomic / ClojureScript / Reagent
+Tech stack: Clojure(Script) / Postgres / Datomic / Bootstrap
 
 ## Technical Lead, Style.com 
 ### London, 09/2015 - 06/2017
 
 Building a team and delivering beyond launch the new Style.com, a best-in-class luxury ecommerce experience.  I ensured technical excellence of our development efforts, and introduced improvements to add value and increase velocity.  I mentored junior developers and provided technical consultancy to product owners.  I worked to evangelise our engineering efforts across the company and externally, in order to further build cohesive, effective delivery teams.  We built and launched the site in the UK and EU before the product was sold and the company shut down.
 
-Tech stack: Clojure / Datomic / Clojurescript / Reagent / SASS
+Tech stack: Clojure(Script) / Datomic / SASS
 
 ## Senior Software Engineer, [Bright North](http://www.brightnorth.co.uk/)
 ### London, 01/2014 - 08/2015
 
 As a full-stack engineer, I provided technical, architectural and procedural leadership for our [Convolo platform](http://www.brightnorth.co.uk/platform.html), a microservice-based application featuring a high-performance messaging pipeline, real-time graphing interface and batch ETL jobs.  I delivered a [recruitment website](https://functional.works-hub.com), as well as working on a social ecommerce platform [Social Superstore](http://socialsuperstore.com/), and Bright North's core product after a pivot. We work to firm deadlines with a strong quality ethic.  Development methodology was pragmatic not dogmatic, based on agile and TDD. 
 
-Tech stack: Clojure / Clojurescript / MySQL / Elasticsearch / RedShift / RabbitMQ / SQS / Chef / AWS
+Tech stack: Clojure(Script) / MySQL / Elasticsearch / RedShift / RabbitMQ / SQS / Chef / AWS
 
 ## Software Engineer, [Softwire](http://www.softwire.com)
 ### London, 06/2013 - 01/2014

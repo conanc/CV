@@ -1,6 +1,6 @@
 # Conan Cook
 
-Product-oriented full-stack engineering manager.  I'm focused on feedback, honesty and growth.  I like shipping early and often, and believe in automation; I consider continuous integration and peer review to be first-class activities.  I don't think there's a trade-off between quality and speed - it's about building the right thing well.  I'm passionate about what I do, and will never finish learning; I enjoy helping others to learn, too.  Management is the empowerment of others.  I can help you build teams and bring products to market.
+Product-oriented full-stack engineering manager.  I'm focused on feedback, honesty and growth, and am interested in developing great technology, people and teams.  I'm passionate about what I do, and will never finish learning; I enjoy helping others to learn, too.  Management is the empowerment of others.  I can help you build teams and bring products to market.
 
 My current goals are to spend more time talking to customers and to continue growing my management leadership skills, particularly around active listening.
  
@@ -13,11 +13,19 @@ My current goals are to spend more time talking to customers and to continue gro
 + 1:1s 
 + Interviewing & assessment
 
+## Methodology
+
++ Agile (Scrum, XP, Kanban)
++ Lean
++ TDD / BDD
++ User research
+
 ## Development
 
 + Clojure
 + ClojureScript
 + Other well-known JVM languages
++ Tooling & Automation
 
 ## Data Stores
 
@@ -31,23 +39,17 @@ My current goals are to spend more time talking to customers and to continue gro
 + AWS
 + Heroku
 + Docker
-
-## Methodology
-
-+ TDD / BDD
-+ Agile (Scrum, XP, Kanban)
-+ Lean
 + Microservices
 
 
 # Experience
 
 ## Head of Product Engineering, [Cervest](https://cervest.earth)
-### London, 02/2019 - Today
+### London, 03/2019 - Today
 
-As the second engineer in the company I've been involved in our product journey from an early stage, and have taken on the responsibility of running the Product Engineering team.  We deliver the client-facing applications, which includes a heavy data visualisation element.  We present historical and forecast data from third parties and our Science team to our users to enable sustainable land use decision-making. I find myself variously recruiting, acting as scrum master, mentoring, defining requirements with the Product team, engaging in user research and taking an active hand in our company culture and direction, as well as ensuring successful design and implementation of our core systems. As it's a small company I've also been involved in building our data pipelines that run highly intensive batch jobs to process remote sensing (satellite) data for the entire globe.
+As the second engineer in the company I've been involved in our product journey from an early stage, and have taken on the responsibility of running the Product Engineering team.  We deliver the client-facing applications, whose purpose is primarily to deliver sophisticated visualisations.  We present historical and forecast data to our users to enable sustainable decision-making and risk analysis for land-based assets. I find myself variously recruiting, mentoring, acting as scrum master, defining requirements with the Product team, engaging in user research and taking an active hand in our company culture and direction, as well as ensuring successful design and implementation of our core systems. As it's a small company I've been involved in building our data pipelines that run highly intensive batch jobs to process remote sensing (satellite) data for the entire globe. I also have a hand in our comms, mission, product strategy and cultural expression.
 
-Tech stack: Clojure(Script) / Datomic / Material Components Web / SASS / Heroku / PostGIS / Docker / lots of AWS
+Tech stack: Clojure(Script) / Datomic / Material Design / SASS / Heroku / PostGIS / Docker / lots of AWS
 
 ## Technical Lead, [Entrepreneur First](https://www.joinef.com)
 ### London, 06/2017 - 03/2019

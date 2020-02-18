@@ -97,13 +97,6 @@ Tech stack: Groovy / Java / Jetty / Spring / Restlet / Hibernate / MySQL / Cassa
 Developing financial indices, maintaining and supporting the entire codebase for 6 products, as well as deployment and disaster recovery.  My key projects were structured finance index products, providing performance analysis for investors and traders.  I also snuck in some major build system improvements, too.
 
 Tech stack: Java / Tomcat / Spring / JavaSpaces / Hibernate / Oracle / GWT / Maven
- 
-## Senior Applications Developer, [University of the West of England](http://www.uwe.ac.uk)
-### Bristol, 08/2006 – 12/2010
-
-Delivering the student web portal [myUWE](http://my.uwe.ac.uk) supporting 28,000 student and 3000 staff users.  Promoted to Senior Developer, gaining responsibility for security, performance, development processes, technical documentation and also leading system maintenance. 
-
-Tech stack: Java / Tomcat / Spring / Portlet / TopLink / SQL Server / XSLT / Maven
 
 
 # Education / Qualifications

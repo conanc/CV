@@ -73,7 +73,7 @@ As a full-stack engineer, I provided technical, architectural and procedural lea
 
 Tech stack: Clojure(Script) / MySQL / Elasticsearch / RedShift / RabbitMQ / SQS / Chef / AWS
 
-## Software Engineer, [Softwire](http://www.softwire.com)
+## Senior Software Engineer, [Softwire](http://www.softwire.com)
 ### London, 06/2013 - 01/2014
 
 Delivered a project for the company's largest client, [Metaswitch](http://www.metaswitch.com/), a platform handling messaging for over 40% of all US mobile subscribers, involving a major body of 3rd-party legacy code.  As the experienced development resource on the project, I established processes to bridge the culture gap between the two companies, introducing test infrastructure, SCM and modern TDD development.  I mentored junior developers on coding best practice, and acted as a subject matter expert on the application.  I achieved far more through the introduction of stronger dev practices improving the speed and quality of delivery than through the features I personally built.

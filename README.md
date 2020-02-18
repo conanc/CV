@@ -10,9 +10,9 @@ My current goals are to consolidate my management and leadership skills, and dev
 ## Management
 
 + Feedback
-+ 1:1s 
++ 1:1s
 + Interviewing & assessment
-* Goals & metrics
++ Goals & metrics
 
 ## Methodology
 

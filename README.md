@@ -11,6 +11,8 @@ My current goals are to consolidate my management and leadership skills, and dev
 
 + Feedback
 + 1:1s
++ Inclusive culture
++ Accountability
 + Interviewing & assessment
 + Goals & metrics
 
@@ -34,6 +36,7 @@ My current goals are to consolidate my management and leadership skills, and dev
 + SQL (MySQL / PostgreSQL / Oracle / MSSQL)
 + Cassandra
 + Elasticsearch
++ Dynamo, Redis, Memcached
 
 ## Infrastructure
 
@@ -48,9 +51,9 @@ My current goals are to consolidate my management and leadership skills, and dev
 ## Head of Product Engineering, [Cervest](https://cervest.earth)
 ### London, 03/2019 - Today
 
-As the second engineer in the company I've been involved in our product journey from an early stage, and have taken on the responsibility of running the Product Engineering team.  We deliver the client-facing applications, whose purpose is primarily to deliver sophisticated visualisations to our users to enable sustainable decision-making for land-based assets. I find myself variously recruiting, mentoring, acting as scrum master, defining requirements with the Product team, engaging in user research and taking an active hand in our company culture and direction, as well as ensuring successful design and implementation of our core systems. As it's a small company I've built out data pipelines that run highly intensive batch jobs to process global remote sensing (satellite) data. I also participate in our comms, mission, product strategy and cultural expression.
+As the second engineer in the company I've been involved in our product journey from an early stage, and run the Product Engineering team of six developers.  We deliver the client-facing applications, whose purpose is primarily to deliver sophisticated visualisations to our users to enable sustainable decision-making for land-based assets. I find myself variously recruiting, mentoring, acting as scrum master, defining requirements with the Product team, engaging in user research and taking an active hand in our company culture and direction, as well as ensuring successful design and implementation of our core systems (I'm hands-on). I participate in our comms, mission, product strategy and cultural expression.
 
-Tech stack: Clojure(Script) / Datomic / Material Design / SASS / Heroku / PostGIS / Docker / lots of AWS
+Tech stack: React / Next.js / Chakra / Clojure / Datomic / Elasticsearch / PostGIS / Docker / lots of AWS
 
 ## Technical Lead, [Entrepreneur First](https://www.joinef.com)
 ### London, 06/2017 - 03/2019

@@ -2,7 +2,7 @@
 
 Product-oriented full-stack engineering manager.  I'm focused on feedback, honesty and growth, and am interested in developing great technology, people and teams.  I'm passionate about what I do, and will never finish learning; I enjoy helping others to learn, too.  Management is the empowerment of others.  I can help you build teams and bring products to market.
 
-My current goals are to consolidate my management and leadership skills, and develop a better understanding of go-to-market strategies and business model evaluation.
+My current goals are to consolidate my management and leadership skills, and develop a better understanding of go-to-market strategies, product validation and business model evaluation.
  
  
 # Skills
